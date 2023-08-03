@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+resources/_gen/
+public/
+hugo.exe
+hugo.linux
+hugo.darwin
+.DS_Store
+node_modules/
+dist/
+tmp/
+
+assets/jsconfig.json
+hugo_stats.json
+
+.hugo_build.lock
