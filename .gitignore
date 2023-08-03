@@ -9,8 +9,6 @@ hugo.darwin
 node_modules/
 dist/
 tmp/
-
-assets/jsconfig.json
 hugo_stats.json
 
 .hugo_build.lock
