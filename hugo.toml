@@ -1,0 +1,22 @@
+baseURL = 'https://blog.ujunglangit.id/'
+languageCode = 'en-us'
+title = 'Jawabnya ada di UjungLangi'
+theme = 'hugo-theme-monochrome'
+
+[params]
+  author = "M Azwar Nurrosat"
+  description = "A blog about all technical stuff."  
+  navbar_title = "Monochrome" # default: site's `title`
+  footer = "Copyright © 2023 by Azwar"
+  color_scheme = "dark"
+  type: 'balloon'
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/ChristopherJHart"
+
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/_ChrisJHart"
