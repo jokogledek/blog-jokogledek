@@ -15,7 +15,7 @@ keywords:
 - programmer-friendly
 ---
 
-{{< icon vendor="feather" name="github" link="https://github.com/ujunglangit-id" >}}
+{{< icon vendor="feather" name="github" link="https://github.com/jokogledek" >}}
 {{< icon vendor="feather" name="linkedin" link="https://www.linkedin.com/in/azwarnrst/" >}}
 
 
