@@ -1,11 +1,11 @@
-baseURL = 'https://blog.ujunglangit.id/'
+baseURL = 'https://blog.jokogledek.xyz/'
 languageCode = 'en-us'
-title = 'Sepotong ilmu dari UjungLangit'
+title = 'Sampaikanlah walau satu ayat'
 theme = 'hugo-theme-monochrome'
 
 [params]
   author = "M Azwar Nurrosat"
-  description = "A blog about all technical stuff."  
+  description = "A blog about all technical stuff."
   navbar_title = "Sharing is caring"
   footer = "Copyright © 2023 by Azwar"
   color_scheme = "dark"
