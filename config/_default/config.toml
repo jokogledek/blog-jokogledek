@@ -1,6 +1,6 @@
-baseURL = "https://blog.ujunglangit.id"
+baseURL = "https://blog.jokogledek.xyz"
 languageCode = "en"
-title = "Coretan Ujunglangit"
+title = "Coretan "
 theme = "hugo-theme-monochrome"
 defaultContentLanguage = "en"
 enableEmoji = true
