@@ -1,6 +1,6 @@
 baseURL = "https://blog.jokogledek.xyz"
 languageCode = "en"
-title = "Coretan "
+title = "Sharing is Caring"
 theme = "hugo-theme-monochrome"
 defaultContentLanguage = "en"
 enableEmoji = true
